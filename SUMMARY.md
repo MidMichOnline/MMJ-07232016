@@ -1,5 +1,7 @@
 # Summary
 
-* [summary](summary.md)
-* The Mid Michigan Journal
+##[The Mid Michigan Journal](TMMJ)
+
+
+##[The Shepherd Journal](TSJ)
 
